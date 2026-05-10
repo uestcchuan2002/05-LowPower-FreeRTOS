@@ -1,0 +1,12 @@
+lowpower\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/list.c
+lowpower\list.o: C:\app\KEILMDK\ARM\ARMCC\Bin\..\include\stdlib.h
+lowpower\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+lowpower\list.o: C:\app\KEILMDK\ARM\ARMCC\Bin\..\include\stddef.h
+lowpower\list.o: C:\app\KEILMDK\ARM\ARMCC\Bin\..\include\stdint.h
+lowpower\list.o: ../Core/Inc/FreeRTOSConfig.h
+lowpower\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+lowpower\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+lowpower\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+lowpower\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+lowpower\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+lowpower\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

@@ -1,0 +1,15 @@
+lowpower\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/timers.c
+lowpower\timers.o: C:\app\KEILMDK\ARM\ARMCC\Bin\..\include\stdlib.h
+lowpower\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+lowpower\timers.o: C:\app\KEILMDK\ARM\ARMCC\Bin\..\include\stddef.h
+lowpower\timers.o: C:\app\KEILMDK\ARM\ARMCC\Bin\..\include\stdint.h
+lowpower\timers.o: ../Core/Inc/FreeRTOSConfig.h
+lowpower\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+lowpower\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+lowpower\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+lowpower\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+lowpower\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+lowpower\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+lowpower\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+lowpower\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h
+lowpower\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h

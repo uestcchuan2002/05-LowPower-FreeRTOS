@@ -1,0 +1,16 @@
+lowpower\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/tasks.c
+lowpower\tasks.o: C:\app\KEILMDK\ARM\ARMCC\Bin\..\include\stdlib.h
+lowpower\tasks.o: C:\app\KEILMDK\ARM\ARMCC\Bin\..\include\string.h
+lowpower\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+lowpower\tasks.o: C:\app\KEILMDK\ARM\ARMCC\Bin\..\include\stddef.h
+lowpower\tasks.o: C:\app\KEILMDK\ARM\ARMCC\Bin\..\include\stdint.h
+lowpower\tasks.o: ../Core/Inc/FreeRTOSConfig.h
+lowpower\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+lowpower\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+lowpower\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+lowpower\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+lowpower\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+lowpower\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+lowpower\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+lowpower\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+lowpower\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/stack_macros.h
